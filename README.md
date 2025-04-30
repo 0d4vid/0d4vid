@@ -1,11 +1,11 @@
 # Hello World ╰(*°▽°*)╯  
-<picture>https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVldHR1ZnlhMTY3dzEzOTJuM2xucGYyb2JwNjR3NjZ0c2FoM3BpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif</picture>
+<img src="my_neighbor_totoro_GIF_by_Maudit.gif"></img>
 <h2>I'm David Nonagni</h2>
 </br>
 
 # 💫 About Me:
 
-i'm a random weeb that loves coding. I'm a software engineering student with a passion for programming. I enjoy exploring different areas of coding, from AI and game development to web development. In my free time, you can find me watching anime, reading manga, or playing video games.
+I'm a random weeb that loves coding. Actually studying Software Engeneering, i enjoy exploring different areas of coding, from AI and game development to web development.
 
 
 ## 🌐 Socials:
